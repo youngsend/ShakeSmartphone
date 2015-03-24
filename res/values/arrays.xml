@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gestures">
+        <item>坐着：</item>
+        <item>站着：</item>
+        <item>躺着：</item>
+    </string-array>
+    
+    <string-array name="shake_handle_way">
+        <item>自然摇：正面正手</item>
+        <item>自然摇：正面反手</item>
+        <item>自然摇：背面正手</item>
+        <item>自然摇：背面反手</item>
+        
+        <item>横着摇：正面正手</item>
+        <item>横着摇：正面反手</item>
+        <item>横着摇：背面正手</item>
+        <item>横着摇：背面反手</item>
+        
+        <item>竖着摇：正面正手</item>
+        <item>竖着摇：正面反手</item>
+        <item>竖着摇：背面正手</item>
+        <item>竖着摇：背面反手</item>
+                
+        <item>斜着摇：正面正手</item>
+        <item>斜着摇：正面反手</item>
+        <item>斜着摇：背面正手</item>
+        <item>斜着摇：背面反手</item>   
+    </string-array>
+    
+</resources>
