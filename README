@@ -1,0 +1,3 @@
+ShakeSmartphone is an application for Logging the accelerometer and gyroscope sensor data of smartphone.
+The data will be saved as .txt format in Log folder in sdcard.
+This is written in Android Eclipse not in Android Studio. 
